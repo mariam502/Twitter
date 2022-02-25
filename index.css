@@ -1,0 +1,37 @@
+body{
+
+
+}
+h1.text1{
+  color: #548CFF;
+  font-size: 100px;
+text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  border: 1px solid #555;
+  max-width: 200px;
+  margin: auto;
+  margin-top: 80px;
+}
+li{
+  border-bottom: 1px solid #555;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+
+
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #548CFF;
+  color: White;
+}
